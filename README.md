@@ -1,2 +1,10 @@
-# Spam-Detection-Classifier
-The Spam-Detection-Classifier is a machine learning project designed to automatically detect and classify messages (such as emails or SMS) as either spam or legitimate ("ham"). This system helps users filter out unwanted, malicious, or unsolicited messages, enhancing security and user experience on communication platforms.
+For a step-by-step guide on how I created this and how to use this 
+repository, check out the video tutorial on YouTube: 
+[Watch the Playlist]
+
+https://www.youtube.com/playlist?list=PLoGk-8pBKSRURha8F4pg0CcE2zSdHaTkI
+
+
+
+
+![image](https://github.com/MrAliHasan/Spam-Detection-Classifier/assets/123310480/a590568d-ba6e-4949-9154-5c6e1de36ce0)
